@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|c:\\users\\elsid\\source\\repos\\consoleapp1\\databasemanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|solutionrelative:databasemanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|c:\\users\\elsid\\source\\repos\\consoleapp1\\employeeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|solutionrelative:employeeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|c:\\users\\elsid\\source\\repos\\consoleapp1\\emploee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|solutionrelative:emploee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|c:\\users\\elsid\\source\\repos\\consoleapp1\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|solutionrelative:employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|c:\\users\\elsid\\source\\repos\\consoleapp1\\packagescreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|solutionrelative:packagescreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|c:\\users\\elsid\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E378656-CAE2-4001-96D6-E58260289B6E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeSelection.cs",
+              "DocumentMoniker": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\EmployeeSelection.cs",
+              "RelativeDocumentMoniker": "EmployeeSelection.cs",
+              "ToolTip": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\EmployeeSelection.cs",
+              "RelativeToolTip": "EmployeeSelection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCoAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:35:16.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackagesCreation.cs",
+              "DocumentMoniker": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\PackagesCreation.cs",
+              "RelativeDocumentMoniker": "PackagesCreation.cs",
+              "ToolTip": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\PackagesCreation.cs",
+              "RelativeToolTip": "PackagesCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:09:09.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\EmployeeManager.cs",
+              "RelativeToolTip": "EmployeeManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:24:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emploee.cs",
+              "DocumentMoniker": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\Emploee.cs",
+              "RelativeDocumentMoniker": "Emploee.cs",
+              "ToolTip": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\Emploee.cs",
+              "RelativeToolTip": "Emploee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:16:41.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\DatabaseManagerContext.cs",
+              "RelativeDocumentMoniker": "DatabaseManagerContext.cs",
+              "ToolTip": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\DatabaseManagerContext.cs",
+              "RelativeToolTip": "DatabaseManagerContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:22:53.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elsid\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:13:11.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
